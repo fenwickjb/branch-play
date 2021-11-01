@@ -1,1 +1,1 @@
-feature 3 work session 1
+Feature 3 Work Session 1
