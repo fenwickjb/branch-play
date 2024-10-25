@@ -3,3 +3,5 @@ Test code 1
 an edit to play with workflow pull/push
 /* conflict needed */
 // so far all are FF pulls ;(
+
+This edit will use a different branch to then merge into here and that should cause a local pull conflict!
